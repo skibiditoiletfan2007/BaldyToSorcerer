@@ -1,0 +1,3 @@
+local morons = {
+}
+return morons

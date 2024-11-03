@@ -7,5 +7,6 @@ local morons = {
   "5287886d-e2a3-42f0-944b-8f66b6a5f613",
   "0a5fe69c-5bd7-4ae6-914f-4927164c403a",
   "57ed4279-bf0e-41f2-a7a8-4e015862521e",
+  "191AE0DA-05A9-4DED-95E5-FF81CA1B24D3",
 }
 return morons
